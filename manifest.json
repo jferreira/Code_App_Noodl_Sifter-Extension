@@ -21,7 +21,7 @@
   "action": {
 		"default_title": "Sifter",
   	"default_icon": "shifter_on_128.png",
-    "default_popup": "options.html"
+    "default_popup": "/Noodl_Deploy/index.html"
 	},
 	"icons": {
    "128": "shifter_on_128.png"
